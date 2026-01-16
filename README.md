@@ -67,9 +67,5 @@ Before running the application, ensure you have:
 - `auth.py`: Authentication and database management.
 - `requirements.txt`: List of Python dependencies.
 
-## ⚠️ Disclaimer
-
-This project is intended for educational and developmental purposes. It is a proof-of-concept for AI-driven proctoring and should be thoroughly tested before any production use.
-
 ---
 Built with ❤️ by AI and Human collaboration.
