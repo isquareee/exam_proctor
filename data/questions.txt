@@ -1,0 +1,144 @@
+
+
+## Networking Basics – Objective Test (20 Questions)
+
+**1. What does LAN stand for?**
+A. Large Area Network
+B. Local Area Network
+C. Long Area Network
+D. Limited Area Network
+**Answer:** B
+
+**2. Which device is used to connect multiple computers within a LAN?**
+A. Modem
+B. Router
+C. Switch
+D. Firewall
+**Answer:** C
+
+**3. What is the main function of a router?**
+A. To store data
+B. To connect different networks
+C. To amplify signals
+D. To protect against viruses
+**Answer:** B
+
+**4. Which network topology connects all devices to a central hub or switch?**
+A. Bus
+B. Ring
+C. Star
+D. Mesh
+**Answer:** C
+
+**5. What does IP stand for in networking?**
+A. Internet Process
+B. Internal Protocol
+C. Internet Protocol
+D. Information Path
+**Answer:** C
+
+**6. Which of the following is a valid IPv4 address?**
+A. 256.168.1.1
+B. 192.168.1
+C. 192.168.1.1
+D. 192.168.1.999
+**Answer:** C
+
+**7. Which device connects a local network to the Internet?**
+A. Switch
+B. Hub
+C. Router
+D. Repeater
+**Answer:** C
+
+**8. What type of cable is commonly used in Ethernet networks?**
+A. Coaxial
+B. Fiber optic
+C. Twisted pair
+D. HDMI
+**Answer:** C
+
+**9. What does WAN stand for?**
+A. Web Area Network
+B. Wide Area Network
+C. Wireless Access Network
+D. World Area Network
+**Answer:** B
+
+**10. Which protocol is used to send emails?**
+A. FTP
+B. HTTP
+C. SMTP
+D. SNMP
+**Answer:** C
+
+**11. What is the default port number for HTTP?**
+A. 21
+B. 25
+C. 80
+D. 443
+**Answer:** C
+
+**12. Which device operates at the Network Layer (Layer 3) of the OSI model?**
+A. Hub
+B. Switch
+C. Router
+D. Bridge
+**Answer:** C
+
+**13. How many layers are there in the OSI model?**
+A. 5
+B. 6
+C. 7
+D. 8
+**Answer:** C
+
+**14. What is the purpose of DNS?**
+A. To assign IP addresses
+B. To translate domain names into IP addresses
+C. To encrypt data
+D. To block unwanted traffic
+**Answer:** B
+
+**15. Which protocol is used for secure web browsing?**
+A. HTTP
+B. FTP
+C. HTTPS
+D. SMTP
+**Answer:** C
+
+**16. What does MAC address stand for?**
+A. Media Access Control
+B. Machine Access Code
+C. Main Address Code
+D. Media Allocation Channel
+**Answer:** A
+
+**17. Which of the following is a private IP address?**
+A. 8.8.8.8
+B. 172.16.0.1
+C. 54.23.12.1
+D. 1.1.1.1
+**Answer:** B
+
+**18. What is the main purpose of a firewall?**
+A. Speed up the network
+B. Store data
+C. Control and monitor network traffic
+D. Connect computers
+**Answer:** C
+
+**19. Which topology has no single point of failure?**
+A. Star
+B. Bus
+C. Ring
+D. Mesh
+**Answer:** D
+
+**20. What does FTP stand for?**
+A. File Transfer Protocol
+B. Fast Transmission Process
+C. File Transport Path
+D. First Transfer Protocol
+**Answer:** A
+

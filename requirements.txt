@@ -1,0 +1,9 @@
+PyQt5
+opencv-python
+numpy
+Pillow
+psutil
+torch
+torchvision
+ultralytics
+facenet-pytorch
