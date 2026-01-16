@@ -67,5 +67,3 @@ Before running the application, ensure you have:
 - `auth.py`: Authentication and database management.
 - `requirements.txt`: List of Python dependencies.
 
----
-Built with ❤️ by AI and Human collaboration.
